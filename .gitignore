@@ -1,0 +1,7 @@
+/*.sql
+README.md
+composer.json
+composer.lock
+/vendor/
+.env
+.vscode/
