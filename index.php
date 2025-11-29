@@ -1,4 +1,6 @@
 <?php
+// Página principal del repositorio y búsqueda.
+
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
